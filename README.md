@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome]! 👋
+# Olá, Me chamo Gustavo! 👋
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções inovadoras e melhorar a experiência dos usuários na web. Aqui você encontrará alguns dos meus projetos, aprendizados e contribuições para a comunidade. Vamos juntos aprender e construir!
 
@@ -6,21 +6,11 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções in
 
 ## 💼 Sobre mim
 
-- 🎓 **Formação**: [Sua formação ou curso atual].
+- 🎓 **Formação**: Segundo ano do curso de Engenharia de Software.
 - 🔧 **Tecnologias que uso**: 
   - **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Bootstrap.
   - **Backend**: Node.js.
 - 🚀 **Objetivos**: Continuar aprendendo e explorando novas tecnologias e técnicas de desenvolvimento.
-
----
-
-## 📚 Projetos
-
-Aqui estão alguns dos meus projetos favoritos:
-
-1. **[Nome do Projeto 1](link_do_projeto_1)** - Descrição do projeto 1.
-2. **[Nome do Projeto 2](link_do_projeto_2)** - Descrição do projeto 2.
-3. **[Nome do Projeto 3](link_do_projeto_3)** - Descrição do projeto 3.
 
 ---
 
@@ -37,7 +27,7 @@ Atualmente, estou me aprofundando em:
 ## 📬 Entre em contato
 
 - 📧 Email: [gustavoribeiro4523@gmail.com)
-- 💼 LinkedIn: [seulinkedin](https://www.linkedin.com/in/seulinkedin)
+- 💼 LinkedIn: [)
 
 
 ---
