@@ -28,7 +28,7 @@ Atualmente, estou me aprofundando em:
 ## 📬 Entre em contato
 
 - 📧 Email: [gustavoribeiro4523@gmail.com)
-- 💼 LinkedIn: [)
+- 💼 LinkedIn: [https://www.linkedin.com/in/gustavo-oliveira-a372a4308)
 
 
 ---
