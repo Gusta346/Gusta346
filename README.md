@@ -18,6 +18,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções in
 
 Atualmente, estou me aprofundando em:
 
+- **Ferramentas como** Java
 - **Frameworks frontend** como React e Vue.
 - **Desenvolvimento de APIs** com Node.js e Express.
 - **Design responsivo** e boas práticas de acessibilidade.
